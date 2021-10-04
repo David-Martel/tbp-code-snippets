@@ -1,0 +1,10 @@
+This document lists out commands and associated actions for the TBP MI-Gamma short-url tool.
+Format is: "tbpmi.ga/'command'"
+
+1. 'create'
+  This option opens up a google form to create a tbpmi.ga short URL with this form. If you are an officer, you can create AND update a short URL. 
+  Note: The short URLs are case-insensitive. That is, tbpmi.ga/YPT is the same as tbpmi.ga/ypt.
+2. '_list'
+  This option opens up the existing database of short-urls <> full-url assocations.
+3. 'help'
+  Open up this text documentation.
